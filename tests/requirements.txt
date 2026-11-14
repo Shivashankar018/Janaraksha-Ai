@@ -1,0 +1,3 @@
+# End-to-end test tools (the app itself has no dependencies)
+pytest>=8.0
+pytest-playwright>=0.5
