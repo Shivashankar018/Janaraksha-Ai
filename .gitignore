@@ -1,0 +1,29 @@
+# Build output (rebuild with: python3 scripts/build.py)
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Test output
+test-results/
+playwright-report/
+*.trace.zip
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local settings and secrets (the prototype needs none)
+.env
+.env.*
+
+# Logs
+*.log
