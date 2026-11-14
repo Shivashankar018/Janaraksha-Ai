@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/reyanftw/janaraksha-ai/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/reyanftw/janaraksha-ai/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://github.com/Shivashankar018/Janaraksha-Ai/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Shivashankar018/Janaraksha-Ai/actions/workflows/ci.yml/badge.svg" /></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-b08a2e" /></a>
   <img alt="Status: working prototype" src="https://img.shields.io/badge/status-working%20prototype-4a0e19" />
   <img alt="Built with HTML, CSS and JavaScript" src="https://img.shields.io/badge/built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-62182a" />
@@ -173,8 +173,8 @@ Read the full [architecture](docs/architecture.md) and the [user workflows](docs
 You need **Python 3.9 or later**. Nothing else is required to build or run the app.
 
 ```bash
-git clone https://github.com/reyanftw/janaraksha-ai.git
-cd janaraksha-ai
+git clone https://github.com/Shivashankar018/Janaraksha-Ai.git
+cd Janaraksha-Ai
 python3 scripts/build.py          # writes dist/index.html
 ```
 
@@ -217,7 +217,7 @@ A five-minute walkthrough for judges and reviewers is in the [demo guide](docs/d
 ## Project structure
 
 ```text
-janaraksha-ai/
+Janaraksha-Ai/
 ├── src/                     # application source (plain HTML, CSS, JavaScript)
 │   ├── index.html           # page template; the build inlines styles and scripts here
 │   ├── styles/main.css      # theme, layout, dark mode, print styles

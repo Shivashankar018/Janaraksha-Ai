@@ -37,4 +37,4 @@ The prototype was built in iterations during the buildathon. In order:
 - Escalation moved to the Commissioner phase; station officers see only instructions.
 - Demo complaints for all 37 Kalaburagi police stations.
 
-[1.0.0]: https://github.com/reyanftw/janaraksha-ai/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Shivashankar018/Janaraksha-Ai/releases/tag/v1.0.0

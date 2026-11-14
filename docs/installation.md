@@ -27,8 +27,8 @@ An internet connection is used for the web fonts and, when a user scans a new do
 ## Build and run
 
 ```bash
-git clone https://github.com/reyanftw/janaraksha-ai.git
-cd janaraksha-ai
+git clone https://github.com/Shivashankar018/Janaraksha-Ai.git
+cd Janaraksha-Ai
 python3 scripts/build.py
 ```
 

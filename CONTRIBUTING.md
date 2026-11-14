@@ -12,8 +12,8 @@ Thank you for helping. This guide explains how to set up the project, how the co
 ## Set up
 
 ```bash
-git clone https://github.com/reyanftw/janaraksha-ai.git
-cd janaraksha-ai
+git clone https://github.com/Shivashankar018/Janaraksha-Ai.git
+cd Janaraksha-Ai
 python3 scripts/build.py            # dist/index.html
 pip install -r tests/requirements.txt
 python3 -m playwright install chromium
